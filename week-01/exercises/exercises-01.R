@@ -26,24 +26,24 @@
 # Part 1. GitHub terminology ----------------------------------------------
 
 # 1. What is the difference between clone and pull?
-#
+#Clone copies the repository onto your computer. Pull only copies changes/updates from the repo. 
 
 
 # 2. What is the difference between commit and push?
-#
+#Commit saves the files onto your computer. Push saves them onto GitHub. 
 
 
 # 3. Which repository contains the instructor's original course materials?
-#
+#course-hub
 
 
 # 4. Which repository should contain your completed tutorials and exercises?
-#
+#tutorials-exercises
 
 
 # 5. What should you do before beginning work in a repository that you have
 #    already cloned to your computer?
-#
+#Pull any updates. 
 
 
 # Part 2. Review your changes ---------------------------------------------
